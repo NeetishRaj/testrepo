@@ -1,0 +1,24 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "Test Repo for Cooperative Git practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeetishRaj/testrepo.git"
+  },
+  "keywords": [
+    "test",
+    "coop",
+    "node"
+  ],
+  "author": "Morpheus & Mindsoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeetishRaj/testrepo/issues"
+  },
+  "homepage": "https://github.com/NeetishRaj/testrepo#readme"
+}
